@@ -1,1 +1,1 @@
-<p align="center">👑 Emojis 👑</p>
+<h1 align="center">👑🍄🦋  Emojis 👑</h1>
