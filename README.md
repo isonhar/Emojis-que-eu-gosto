@@ -1,1 +1,1 @@
-# Emojis-que-eu-gosto
+<h1 align="center">👑 Emojis 👑</h1>
