@@ -1,5 +1,7 @@
 <h1 align="center">🦋 Emojis 🦋</h1>
 
+<p>Lista de emogis que eu acho q me servirão na construção dos meus repositorios</p>
+
 <p>⏩ ⏫ ⏪ ⏬</p>
 
 <p>▶️ 🔼 ◀️ 🔽</p>
